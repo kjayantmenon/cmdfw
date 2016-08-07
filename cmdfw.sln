@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandService", "CommandService\CommandService.csproj", "{46B9F883-1DB6-4D56-8609-83FF05CB613A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway", "Gateway\Gateway\Gateway.csproj", "{18DC5F43-B9A1-4C88-8A2B-A7E3967C4A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudConsole", "CloudConsole\CloudConsole.csproj", "{08E794CB-6AF4-4ED1-9D3A-091ED7FD9339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B9F883-1DB6-4D56-8609-83FF05CB613A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B9F883-1DB6-4D56-8609-83FF05CB613A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B9F883-1DB6-4D56-8609-83FF05CB613A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B9F883-1DB6-4D56-8609-83FF05CB613A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DC5F43-B9A1-4C88-8A2B-A7E3967C4A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DC5F43-B9A1-4C88-8A2B-A7E3967C4A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DC5F43-B9A1-4C88-8A2B-A7E3967C4A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DC5F43-B9A1-4C88-8A2B-A7E3967C4A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E794CB-6AF4-4ED1-9D3A-091ED7FD9339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E794CB-6AF4-4ED1-9D3A-091ED7FD9339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E794CB-6AF4-4ED1-9D3A-091ED7FD9339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E794CB-6AF4-4ED1-9D3A-091ED7FD9339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
